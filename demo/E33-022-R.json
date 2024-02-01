@@ -1,0 +1,26 @@
+{
+    "cid":"E33-022",
+    "rarity":"R",
+    "name":{
+        "zh":"卡娜 投票券",
+        "jp":"カナ投票券",
+        "ot":"-"
+    },
+    "attribute":{
+        "color":"无",
+        "group":"-",
+        "card-bag":"E33「偶像♪夏日课程」"
+    },
+    "info":{
+        "type":"标记",
+        "cost":"-",
+        "power":"",
+        "sign":"-",
+        "ability":[]
+    },
+    "other":{
+        "illustrator":"yaki*mayu",
+        "lines":"-"
+    },
+    "id":"E33-022-R"
+}

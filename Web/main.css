@@ -1,5 +1,5 @@
 body {
-    background-image: url('default.png');
+    background-image: url('image/default.png');
     background-size: cover;         /* 让图片铺满整个页面 */
     background-repeat: no-repeat;   /* 防止图片重复 */
     background-position: center;    /* 图片居中显示 */
